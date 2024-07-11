@@ -23,7 +23,7 @@ const ParticleRing = () => {
 
         <h1 className="text-md md:text-lg lg:text-xl xl:text-3xl xl:mt-10 absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] text-neutral-200 font-medium text-center pointer-events-none">
           <span className={"text-2xl md:text-3xl lg:text-4xl xl:text-5xl  text-red-600 bg-transparent backdrop-blur-sm font-bold"}>Daichiflix </span>is a fullstack project made using
-          <span className={"animate-pulse text-2xl md:text-3xl lg:text-4xl xl:text-5xl "}> Next.js </span>using packages like tailwind, mongoose, yarn, dotenv, mongoDB and react-three. This project consists of both server and client components and uses advanced javascript coded on
+          <span className={"animate-pulse text-2xl md:text-3xl lg:text-4xl xl:text-5xl "}> Next.js </span>and packages like tailwind, mongoose, yarn, dotenv, mongoDB and react-three. This project consists of both server and client components and uses advanced javascript coded on
           <span className={"animate-pulse text-2xl md:text-3xl lg:text-4xl xl:text-5xl  "}> WebStorm IDE.</span>
           <br/> <br/>
           This is my <span className={"text-red-600"}>first</span> Next application that I built while learning Next.js <br/> ....
