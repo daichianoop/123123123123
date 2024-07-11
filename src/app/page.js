@@ -44,7 +44,7 @@ const Page = () => {
               className={"text-white w-screen flex items-center justify-center px-20 border-b-8 border-zinc-900 py-20"}>
             <div className={"centering-child flex-row md:flex lg:flex xl:flex items-center justify-center "}>
               <div className={"main-container-1 md:pr-10 lg:pr-10 xl:pr-10  w-auto"}>
-                <div className={"text-4xl xl:text-6xl lg:text-5xl md:text-5xl  font-bold"}>Enjoy on your TV</div>
+                <div className={"text-4xl xl:text-6xl lg:text-5xl md:text-5xl font-bold"}>Enjoy on your TV</div>
                 <div className={"text-lg xl:text-2xl lg:text-xl md:text-xl mt-4"}>Watch on smart TVs, PlayStation, Xbox,
                   Chromecast, Apple TV, Blu-ray
                   players
@@ -65,7 +65,7 @@ const Page = () => {
                 <VideoTwo/>
               </div>
               <div className={"main-container-1 md:pr-10 lg:pr-10 xl:pr-10  w-auto"}>
-                <div className={"text-5xl font-bold"}>Download your shows to watch offline</div>
+                <div className={"text-4xl xl:text-6xl lg:text-5xl md:text-5xl font-bold"}>Download your shows to watch offline</div>
                 <div className={"text-xl mt-4"}>Save your favourites easily and always have something to watch.
                 </div>
               </div>
@@ -77,7 +77,7 @@ const Page = () => {
               className={"text-white w-screen flex items-center justify-center px-20 border-b-8 border-zinc-900 py-20"}>
             <div className={"centering-child flex-row md:flex lg:flex xl:flex items-center justify-center"}>
               <div className={"main-container-1 md:pr-10 lg:pr-10 xl:pr-10  w-auto"}>
-                <div className={"text-5xl font-bold"}>Watch everywhere</div>
+                <div className={"text-4xl xl:text-6xl lg:text-5xl md:text-5xl font-bold"}>Watch everywhere</div>
                 <div className={"text-xl mt-4"}>Stream unlimited movies and TV shows on your phone, tablet, laptop, and
                   TV.
                 </div>
@@ -97,7 +97,7 @@ const Page = () => {
                 <Image src="/home4.png" alt={"my logo"} width={450} height={300}/>
               </div>
               <div className={"main-container-1 md:pr-10 lg:pr-10 xl:pr-10  w-auto"}>
-                <div className={"text-5xl font-bold"}>Download your shows to watch offline</div>
+                <div className={"text-4xl xl:text-6xl lg:text-5xl md:text-5xl font-bold"}>Download your shows to watch offline</div>
                 <div className={"text-xl mt-4"}>Save your favourites easily and always have something to watch.
                 </div>
               </div>
