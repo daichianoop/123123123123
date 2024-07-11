@@ -97,8 +97,8 @@ const Page = () => {
                 <Image src="/home4.png" alt={"my logo"} width={450} height={300}/>
               </div>
               <div className={"main-container-1 md:pr-10 lg:pr-10 xl:pr-10  w-auto"}>
-                <div className={"text-4xl xl:text-6xl lg:text-5xl md:text-5xl font-bold"}>Download your shows to watch offline</div>
-                <div className={"text-xl mt-4"}>Save your favourites easily and always have something to watch.
+                <div className={"text-4xl xl:text-6xl lg:text-5xl md:text-5xl font-bold"}>Create profiles for kids </div>
+                <div className={"text-xl mt-4"}>Send children on adventures with their favourite characters in a space made just for them — free with your membership.
                 </div>
               </div>
             </div>
