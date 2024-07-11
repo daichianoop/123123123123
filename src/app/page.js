@@ -103,7 +103,7 @@ const Page = () => {
               </div>
             </div>
           </div>
-          <div className={"text-white w-screen flex items-center justify-center px-20 py-20"}>
+          <div className={"text-white w-screen flex items-center justify-center px-5 py-20"}>
             <div className={"centered-child w-screen"}>
               <details className={"bg-neutral-800 mb-2"}>
                 <summary
