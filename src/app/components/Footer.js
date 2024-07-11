@@ -10,7 +10,7 @@ const Footer = () => {
                backgroundImage: 'linear-gradient(180deg, rgba(225, 225,225, 0.1), rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.1))',
              }}>
           <div className={" flex items-center justify-between"}>
-            <div className={"text-2xl font-bold"}>
+            <div className={"text-lg md:text-xl lg:text-2xl xl:text-2xl font-bold"}>
               Daichiflix Archives .
             </div>
             <div>
