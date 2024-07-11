@@ -12,7 +12,7 @@ const MovieCard = (curElem) => {
           <div className="movie-card-title flex-row mt-2">
             <h2 className={"text-2xl"}><span className={"text-red-700 font-bold"}>{type}</span> | {title}
             </h2>
-            <p className={"h-20"}>{synopsis.substring(0,122)} ...</p>
+            <p className={"sm:h-20 md:h-16 lg:h-16 xl:h-16 "}>{synopsis.substring(0,122)} ...</p>
             <Link href={`/movie/${id}`}>
               <div className={"flex items-center justify-center"}>
                 <button className={"active:translate-y-0.5 hover:bg-neutral-500 hover:text-black transition-all duration-500 bg-black text-red-700 font-bold py-3 px-5 mt-5 shadow-gray-600 shadow-2xl"}>
