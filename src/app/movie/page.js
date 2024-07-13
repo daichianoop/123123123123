@@ -3,7 +3,7 @@ import MovieCard from "@/app/components/MovieCard";
 import Footer from "@/app/components/Footer";
 const  Page = async () => {
 
-  const url = 'https://netflix54.p.rapidapi.com/search/?query=stranger&offset=0&limit_titles=152&limit_suggestions=20&lang=en';
+  const url = 'https://netflix54.p.rapidapi.com/search/?query=stranger&offset=0&limit_titles=200&limit_suggestions=20&lang=en';
   const options = {
     method: 'GET',
     headers: {
